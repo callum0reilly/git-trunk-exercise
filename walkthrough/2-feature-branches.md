@@ -12,7 +12,6 @@
 | Eggs Benny | http://allrecipes.com/recipe/174361/asparagus-with-cranberries-and-pine-nuts/ |
 | John Lemon | http://allrecipes.com/recipe/18241/candied-carrots/ |
 | Madame Croque | http://www.realsimple.com/food-recipes/browse-all-recipes/roast-pork-sandwich/ |
-test add 
 ## :running: Activities
 
 Follow along with the activities below to walk through the process of creating a feature branch and creating a Pull Request to merge your changes into the source repository.
